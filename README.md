@@ -35,7 +35,7 @@ A Python-based simulation project that implements Role-Based Access Control (RBA
 ### ▶️ How to Run
 
 1.  ```bash
-     python iot_risk_rbac.py
+     python IoT.py
      ```
 
 
