@@ -4,6 +4,12 @@ A Python-based simulation project that implements Role-Based Access Control (RBA
 
 ---
 
+## 👥 Team Members
+- Masooma Hassan – 22K4749  
+- Muhammad Haris – 22K4752   [@Perister2904](https://github.com/Perister2904)  
+- Muhammad Abdullah – 22K4712
+
+
 ## 📌 Features
 
 - ✅ IoT Device Risk Evaluation
